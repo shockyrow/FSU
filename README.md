@@ -12,4 +12,4 @@ How to run the project:
 3. Create a database named "fsu"
 4. Start command line inside project folder
 5. Run "php artisan migrate" for tables to be created
-6. Run "php artisan serve" and you are good to go.
+6. Run "php artisan serve" and you are good to go :)
