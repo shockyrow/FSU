@@ -1,0 +1,62 @@
+body {
+  background: url('../img/bg.png') !important;
+  background-position: center !important;
+  background-size: cover !important;
+  background-attachment: fixed !important;
+}
+
+.content, .box, .karsilasma {
+  background: #fff;
+  padding: 32px;
+  border-radius: 6px;
+  box-shadow: 0 0 16px gray;
+}
+
+.controls > a, .btn {
+  background: rgba(37,48,66,1);  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to bottom, rgba(57,68,86,1), rgba(37,48,66,1));  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to bottom, rgba(67,78,96,1), rgba(37,48,66,1)); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  box-shadow: 0 0 8px silver;
+	border-radius: 8px;
+	color: #323232;
+  padding: 10px !important;
+  width: 320px;
+  display: inline-block;
+  color: white !important;
+  font-size: 24px !important;
+  margin-top: 16px;
+}
+
+.btn {
+  width: 100%;
+}
+
+.title {
+  font-family: 'Nunito', sans-serif;
+  font-weight: 200 !important;
+  font-size: 48px;
+  text-align: center;
+  margin-bottom: 16px;
+}
+
+.links > a {
+  color: rgba(37,48,66,1);
+  padding: 0 25px;
+  font-size: 24px;
+  margin-top: 16px;
+  font-weight: 600;
+  letter-spacing: .1rem;
+  text-decoration: none;
+  text-transform: uppercase;
+  display: block;
+}
+
+.karsilasma {
+  font-size: 24px;
+  margin-bottom: 16px;
+  padding: 16px;
+}
+
+.table-no-border th {
+  border: none;
+}
