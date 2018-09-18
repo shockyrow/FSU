@@ -7,7 +7,7 @@ FSU(Futbol Simulasyon Uygulaması) is a Php Laravel 5 based football simulation 
 2. Composer
 3. MySql
 
-## How To
+## How To Run
 1. Download the project
 2. Start MySql on port 3306
 3. Create a database named "fsu"
