@@ -1,5 +1,6 @@
 # FSU
 ## Description
+
 FSU(Futbol Simulasyon Uygulaması) is a Php Laravel 5 based football simulation application.
 
 ## Requirements
